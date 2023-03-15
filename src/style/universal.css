@@ -1,0 +1,27 @@
+.bg-blue{
+    background-color: blue;
+}
+.bg-black{
+    background-color: black;
+}
+.my-12px{
+    margin: 0 12px;
+}
+.mt-50px{
+    margin-top: 50px;
+}
+.mb-5px{
+    margin-bottom: 5px;
+}
+.pt-75px{
+    padding-top: 75px;
+}
+.pb-45px{
+    padding-bottom: 45px;
+}
+.text-red{
+    color: red;
+}
+.navbar-brand{
+    white-space: normal;
+}
